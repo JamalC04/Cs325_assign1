@@ -1,7 +1,7 @@
-# How to run the curve.
+# How to run the straight.
 Make sure to properly lean while upstraight
 
-## What is better Mac or Windows?
+## What is better Apples or Oranges?
 Both will do great and get the job done. 
 To install the correct packages, enter 
 the following code.
@@ -10,6 +10,6 @@ the following code.
 conda install matplotlib
 </code>
 
-### What type of dog is this?
+### What type of cat is this?
 This is my dog.
 ![Alt text]("C:\CS_325hw\huskyphoto.jpg")
