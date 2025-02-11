@@ -6,8 +6,7 @@ Both will do great and get the job done.
 To install the correct packages, enter 
 the following code.
 
-<code>
-conda install numpy
+<code> conda install numpy
 conda install matplotlib
 </code>
 
