@@ -13,4 +13,4 @@ conda install matplotlib
 
 ### What type of dog is this?
 This is my dog.
-!("C:\CS_325hw\huskyphoto.jpg")
+("C:\CS_325hw\huskyphoto.jpg")
